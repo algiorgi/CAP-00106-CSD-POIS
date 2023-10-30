@@ -41,3 +41,7 @@ mvn clean verify
 
 Para ver los reportes luego de correr las pruebas abrirmos el archivo
 ubicado en `target/cluecumber-report/index.html`
+
+### CI
+
+Usamos actions de github
